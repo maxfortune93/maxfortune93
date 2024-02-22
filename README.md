@@ -1,21 +1,35 @@
-# ![Developer screen](https://github.com/maxfortune93/maxfortune93/blob/main/marouane%20pondikpa.png)
+### Hi there! My name is Marouane Pondikpa 🖐🏾 
 
-### <p font-size="30" align="center"> Hi!!! Je m'appelle Marouane Pondikpa... Seja Bem-Vinde!!! <p>
-<br>
-<hr>
+Originating from Togo (Africa), I am a passionate full-stack web developer
 
-<div align="center">About Me</div>
-<hr>
-<br>
-<p font-size="20">I'm a Full Stack Java Dev in training at Generation Brasil. I have a passion for learning and sharing my knowledge with others.<p>
- 
-  <div align="center">
-<a href="https://www.linkedin.com/feed/" target="_blank"><img height="24" src="https://github.com/maxfortune93/maxfortune93/blob/main/LI-Logo.png" alt="Logo do linkedin">
+<div>
+  <a href="https://github.com/maxfortune93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxfortune93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxfortune93&layout=compact&langs_count=7&theme=dark"/>
 </div>
-   <hr>
-<br>
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" >
+ <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+ <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" >
+ <img align="center" alt="NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" >
+<img align="center" alt="PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" >
+<img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" >
+          
+</div>
+
+##
+ 
+<div> 
   
-  [![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxfortune93)](https://github.com/anuraghazra/github-readme-stats)
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxfortune93&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-   </div>
+  <a href="https://www.linkedin.com/in/marouane-pondikpa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marouanemiramax4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
+
+
